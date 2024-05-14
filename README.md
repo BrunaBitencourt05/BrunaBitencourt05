@@ -6,5 +6,3 @@ Hi , I'm Bruna Bitencourt
 
 
 
-🛠  Tech Stack
- Python   HTML  CSS  Git  GitHub  Visual Studio Code 
